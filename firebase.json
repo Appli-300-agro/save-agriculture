@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "save-agriculture",
+    "site": "save-agriculture-5rzlo",
     "public": "dist",
     "ignore": [
       "firebase.json",
